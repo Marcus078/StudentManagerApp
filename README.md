@@ -51,7 +51,9 @@ cd student-management-system
     *   Update the following constants with your database credentials:
       
     private static final String URL = "jdbc:mysql://localhost:3306/studentApp"; // Replace with your URL
+    
     private static final String USERNAME = "your_db_username"; // Replace with your username
+    
     private static final String PASSWORD = "your_db_password"; // Replace with your password
 
 4 Create a MySQL database (e.g., student_management).
