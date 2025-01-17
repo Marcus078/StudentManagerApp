@@ -18,6 +18,7 @@ and generating visual insights. The application is built with a focus on user-fr
 7 Data Validation: Includes input validation to ensure data integrity.
 
 8 Soft Delete: Students are marked as "removed" rather than permanently deleted, allowing for restoration.
+
 9 Database Interaction: Uses JDBC to interact with a MySQL database.
 
 Technologies Used
