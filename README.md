@@ -3,23 +3,22 @@ Overview:
 The Student Management System is a Java application designed to efficiently manage student records. It provides functionalities for managing student data, viewing statistics, 
 and generating visual insights. The application is built with a focus on user-friendly interfaces and scalability.
 
-Add New Students: Allows adding new student records with validation for ID number, name, surname, and email format.
+1 Add New Students: Allows adding new student records with validation for ID number, name, surname, and email format.
 
-View All Students: Displays a paginated table of all active students with search and sorting functionality.
+2 View All Students: Displays a paginated table of all active students with search and sorting functionality.
 
-View Removed Students: Displays a paginated table of removed students.
+3 View Removed Students: Displays a paginated table of removed students.
 
-Search Functionality: Enables searching for students by ID number or name.
+4 Search Functionality: Enables searching for students by ID number or name.
 
-Sorting Functionality: Allows sorting students by name, ID number, qualification, or enrollment date.
+5 Sorting Functionality: Allows sorting students by name, ID number, qualification, or enrollment date.
 
-Pagination: Implements pagination for efficient viewing of large student datasets.
+6 Pagination: Implements pagination for efficient viewing of large student datasets.
 
-Data Validation: Includes input validation to ensure data integrity.
+7 Data Validation: Includes input validation to ensure data integrity.
 
-Soft Delete: Students are marked as "removed" rather than permanently deleted, allowing for restoration.
-
-Database Interaction: Uses JDBC to interact with a MySQL database.
+8 Soft Delete: Students are marked as "removed" rather than permanently deleted, allowing for restoration.
+9 Database Interaction: Uses JDBC to interact with a MySQL database.
 
 Technologies Used
 
