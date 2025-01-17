@@ -41,7 +41,7 @@ An IDE like IntelliJ IDEA, Eclipse, or NetBeans (optional)
 
 Steps
 1 Clone the repository:
-git clone https://github.com/your-username/student-management-system.git
+git clone https://github.com/Marcus078/StudentManagerApp.git
 
 2 Navigate to the project directory:
 cd student-management-system
