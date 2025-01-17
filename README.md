@@ -49,11 +49,11 @@ cd student-management-system
 3 Configure the database:
 *   Open the 'DatabaseManager.java' file.
     *   Update the following constants with your database credentials:
-    *   
+      
     private static final String URL = "jdbc:mysql://localhost:3306/studentApp"; // Replace with your URL
     private static final String USERNAME = "your_db_username"; // Replace with your username
     private static final String PASSWORD = "your_db_password"; // Replace with your password
-    ```
+
 4 Create a MySQL database (e.g., student_management).
 Create database studentApp;
 use studentApp;
@@ -81,6 +81,14 @@ Add new students.
 View student records.
 Analyze data using charts.
 Use dropdowns to filter data and explore insights.
+
+Screenshots:
+![stats panel](https://github.com/user-attachments/assets/401e8cef-46d8-41a7-93da-e17342ff569e)
+![view all students panel](https://github.com/user-attachments/assets/9f0b3065-cebc-4b7c-99e3-4eecea59ee37)
+![add new student panel](https://github.com/user-attachments/assets/ff85e52d-292e-4785-b552-c17044040cd6)
+
+
+
 
 Future Enhancements
 
